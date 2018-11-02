@@ -16,7 +16,7 @@ a:hover {
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: #6703a0 !important;
 }
 .logo{
   width: 60px !important;
@@ -68,13 +68,13 @@ section h3.section-subheading {
 }
 
 .btn-primary {
-  background-color: #cc00ff;
-  border-color: #fed136;
+  background-color: #6703a0 !important;
+  border-color: #6703a0 !important;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  background-color: #8b00db !important;
+  border-color: #8b00db !important;
   color: white;
 }
 
@@ -247,7 +247,7 @@ header.masthead .intro-text .intro-heading {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background: rgba(254, 209, 54, 0.9);
+  background: #6603a0a1(254, 209, 54, 0.7);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -688,5 +688,5 @@ ul.social-buttons li a {
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #fed136;
+  background-color: #6703a0;
 }
